@@ -4,7 +4,9 @@
     "author"      : "Kersten Burkhardt <burkhardt@nurago.com>",
     "description" : "epgdata database",
     "dependencies": {
-        "mongoose": "*"
+        "mongoose": "*",
+        "adm-zip": "*",
+        "node-xml": "*"
     },
 
     "engines": {
