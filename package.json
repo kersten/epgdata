@@ -1,0 +1,14 @@
+{
+    "name"        : "epgdata",
+    "version"     : "0.1.0",
+    "author"      : "Kersten Burkhardt <burkhardt@nurago.com>",
+    "description" : "epgdata database",
+    "dependencies": {
+        "mongoose": "*"
+    },
+
+    "engines": {
+        "node": "0.8.x",
+        "npm": "1.1.x"
+    }
+}
