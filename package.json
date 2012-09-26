@@ -6,7 +6,8 @@
     "dependencies": {
         "mongoose": "*",
         "adm-zip": "*",
-        "node-xml": "*"
+        "node-xml": "*",
+        "async": "*"
     },
 
     "engines": {
