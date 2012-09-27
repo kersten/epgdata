@@ -5,7 +5,7 @@
     "description" : "epgdata database",
     "dependencies": {
         "mongoose": "*",
-        "adm-zip": "*",
+        "adm-zip": "git://github.com/cthackers/adm-zip.git#master",
         "node-xml": "*",
         "async": "*"
     },
